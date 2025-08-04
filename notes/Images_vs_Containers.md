@@ -1,9 +1,9 @@
 ---
 id: Images_vs_Containers
-aliases: []
-tags: []
+aliases: 
+tags: 
+created_on: 2025-08-04T18:27:00
 ---
-
 
 # What is a Image 
 
@@ -17,7 +17,7 @@ Contains everything needed to run a piece of software:
 -   System tools,
 -   Libraries,
 -   Settings, etc.
--   Built from a Dockerfile.
+-   Built from a Docker file.
 
 # What is a container 
 
