@@ -29,11 +29,14 @@ It's based on an image, but you can run, modify, stop, or delete it.
 
 When you start a container, Docker uses the image as the starting point.
 
-
 ## Container structure 
 
+![[Container_Structure.png]]
 
-![](../assets/Container_Structure.png)
+## Container vs Image 
+
+![[Image_vs_container.png]]
+
 ## How to run a docker container 
 
 To run a docker container directly from docker hub we can give 
