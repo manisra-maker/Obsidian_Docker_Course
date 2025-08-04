@@ -34,4 +34,16 @@ When you start a container, Docker uses the image as the starting point.
 
 
 ![](../assets/Container_Structure.png)
+## How to run a docker container 
 
+To run a docker container directly from docker hub we can give 
+
+```bash
+docker run postgres:9.6
+```
+
+## Check docker container status 
+
+```bash
+docker ps
+```
