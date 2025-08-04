@@ -165,9 +165,13 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c1c7885cae0b5148",
-  "lastOpenFiles": []
+  "active": "51da63c9666cb857",
+  "lastOpenFiles": [
+    "assets/Container_Structure.png",
+    "assets"
+  ]
 }
