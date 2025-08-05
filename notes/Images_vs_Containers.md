@@ -53,4 +53,3 @@ If incase you need to download a specific version of postgres you can just docke
 docker ps
 ```
 
-
