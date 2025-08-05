@@ -45,8 +45,12 @@ To run a docker container directly from docker hub we can give
 docker run postgres:9.6
 ```
 
+If incase you need to download a specific version of postgres you can just docker run postgres:10.0
+
 ## Check docker container status 
 
 ```bash
 docker ps
 ```
+
+
