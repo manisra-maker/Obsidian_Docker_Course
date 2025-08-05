@@ -172,9 +172,11 @@
   "active": "c1c7885cae0b5148",
   "lastOpenFiles": [
     "notes/Images_vs_Containers.md",
+    "notes/Docker vs VM.md",
+    "assets/imgs/Docker.md",
+    "assets/imgs/Docker vs VM.png",
     "notes/Docker vs VM.md~",
     "notes/4913",
-    "notes/Docker vs VM.md",
     "notes/Docker vs VM",
     "assets/imgs/Container_Structure.png",
     "assets/imgs/Image_vs_container.png",

@@ -7,4 +7,10 @@ created on : "2025-08-05"
 
 # Actual difference between VM and Docker container 
 
+![[Docker vs VM.png]]
+
+
+
+
+
 
