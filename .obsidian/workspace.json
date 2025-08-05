@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Docker vs VM.md",
+                "file": "notes/Docker commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker vs VM"
+              "title": "Docker commands"
             }
           }
         ]
@@ -171,10 +171,10 @@
   },
   "active": "c1c7885cae0b5148",
   "lastOpenFiles": [
+    "notes/Docker vs VM.md",
     "notes/Docker commands.md~",
     "notes/Docker commands.md",
     "notes/Images_vs_Containers.md",
-    "notes/Docker vs VM.md",
     "assets/imgs/Docker.md",
     "assets/imgs/Docker vs VM.png",
     "notes/Docker vs VM.md~",
