@@ -1,7 +1,7 @@
 ---
 id: Images_vs_Containers
-aliases: 
-tags: 
+aliases: []
+tags: []
 created_on: 2025-08-04T18:27:00
 ---
 
