@@ -12,5 +12,5 @@ created on : 2025-08-05 15:43
 3. docker start
 4. docker stop
 5. docker ps
-
-
+6. docker exec-it
+5. docker logs
