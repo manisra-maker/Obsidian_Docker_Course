@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Docker commands.md",
+                "file": "notes/container ports vs machine ports.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker commands"
+              "title": "container ports vs machine ports"
             }
           }
         ]
@@ -171,6 +171,7 @@
   },
   "active": "c1c7885cae0b5148",
   "lastOpenFiles": [
+    "notes/Docker commands.md",
     "assets/imgs/aa.png",
     "notes/container ports vs machine ports.md~",
     "assets/imgs/Container_Ports_Host_Ports.png",
@@ -178,7 +179,6 @@
     "notes/container ports vs machine ports",
     "notes/Docker vs VM.md",
     "notes/Docker commands.md~",
-    "notes/Docker commands.md",
     "notes/Images_vs_Containers.md",
     "assets/imgs/Docker.md",
     "assets/imgs/Docker vs VM.png",

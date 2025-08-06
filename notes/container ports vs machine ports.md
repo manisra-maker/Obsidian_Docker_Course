@@ -7,5 +7,3 @@ tags: []
 # Container ports vs Machine ports 
 
 ![[../assets/imgs/Container_Ports_Host_Ports.png]]
-
-
