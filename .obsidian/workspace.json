@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/container ports vs machine ports.md",
+                "file": "CI/CD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "container ports vs machine ports"
+              "title": "CD"
             }
           }
         ]
@@ -169,28 +169,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c1c7885cae0b5148",
+  "active": "51da63c9666cb857",
   "lastOpenFiles": [
     "CI/CD pipeline.png",
-    "CI",
-    "notes/Workflow with docker.md~",
+    "CI/CD.md",
     "notes/Workflow with docker.md",
-    "notes/Docker commands.md~",
+    "assets/imgs/Image_vs_container.png",
+    "assets/imgs/Docker vs VM.png",
+    "assets/imgs/Container_Structure.png",
+    "assets/imgs/Container_Ports_Host_Ports.png",
     "notes/Docker commands.md",
     "notes/container ports vs machine ports.md",
+    "CI",
+    "notes/Workflow with docker.md~",
+    "notes/Docker commands.md~",
     "assets/imgs/aa.png",
     "notes/container ports vs machine ports.md~",
-    "assets/imgs/Container_Ports_Host_Ports.png",
     "notes/container ports vs machine ports",
     "notes/Docker vs VM.md",
     "notes/Images_vs_Containers.md",
     "assets/imgs/Docker.md",
-    "assets/imgs/Docker vs VM.png",
     "notes/Docker vs VM.md~",
     "notes/4913",
     "notes/Docker vs VM",
-    "assets/imgs/Container_Structure.png",
-    "assets/imgs/Image_vs_container.png",
     "assets/imgs",
     "assets/Container_Structure.png",
     "assets"
