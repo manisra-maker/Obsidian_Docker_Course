@@ -34,3 +34,10 @@ docker run --name ArchTest -dit -p 6000:6001 archlinux
 # How to check specific container logs 
 
 docker logs container_id
+
+
+# Entering inside a container or accessing the shell
+
+```bash
+docker exec-it archlinux /bin/bash
+```
