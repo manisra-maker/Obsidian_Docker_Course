@@ -31,5 +31,6 @@ docker run --name ArchTest -dit -p 6000:6001 archlinux
 -  -dit  --> run it in dettach mode and and with a interactive terminal 
 -  -p  --> host_port : container_port
 
+# How to check specific container logs 
 
-
+docker logs container_id
