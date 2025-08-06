@@ -15,5 +15,5 @@ tags: []
 To run a container on port the command is 
 
 ```bash
-docker run -dit -p 6000:6001 archlinux -name ArchTests
+docker run --name ArchTest -dit -p 6000:6001 archlinux 
 ```
