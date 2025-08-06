@@ -18,6 +18,18 @@ created on : 2025-08-05 15:43
 | docker ps -a   | will show list of all containers                                 |
 | docker exec-it | This will run the container                                                          |
 | docker logs    | You can check logs to see if port is assigned properly etc                                                          |
+| docker images    | To check what images are present |
+
+
+# Docker sample command to run arch linux container
+
+```bash
+docker run --name ArchTest -dit -p 6000:6001 archlinux 
+```
+
+-  --name  --> Name of the container
+-  -dit  --> run it in dettach mode and and with a interactive terminal 
+-  -p  --> host_port : container_port
 
 
 

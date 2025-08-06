@@ -20,3 +20,6 @@ docker run --name ArchTest -dit -p 6000:6001 archlinux
 -  --name  --> Name of the container
 -  -dit  --> run it in dettach mode and and with a interactive terminal 
 -  -p  --> host_port : container_port
+
+
+
