@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CI/CD.md",
+                "file": "notes/Workflow with docker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CD"
+              "title": "Workflow with docker"
             }
           }
         ]
@@ -169,10 +169,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "51da63c9666cb857",
+  "active": "c1c7885cae0b5148",
   "lastOpenFiles": [
-    "CI/CD pipeline.png",
+    "Pasted image 20250806190208.png",
     "CI/CD.md",
+    "CI/CD pipeline.png",
     "notes/Workflow with docker.md",
     "assets/imgs/Image_vs_container.png",
     "assets/imgs/Docker vs VM.png",
