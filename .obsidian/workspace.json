@@ -171,6 +171,8 @@
   },
   "active": "c1c7885cae0b5148",
   "lastOpenFiles": [
+    "notes/container ports vs machine ports.md~",
+    "assets/imgs/Container_Ports_Host_Ports.png",
     "notes/container ports vs machine ports.md",
     "notes/container ports vs machine ports",
     "notes/Docker vs VM.md",
