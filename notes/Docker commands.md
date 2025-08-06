@@ -21,6 +21,14 @@ created on : 2025-08-05 15:43
 | docker images    | To check what images are present |
 
 
+# Docker run vs start ? 
+
+| docker run | docker start |
+| -------------- | --------------- |
+| creates a container from a existing or new image | Start a non running container |
+
+
+
 # Docker sample command to run arch linux container
 
 ```bash
@@ -34,7 +42,6 @@ docker run --name ArchTest -dit -p 6000:6001 archlinux
 # How to check specific container logs 
 
 docker logs container_id
-
 
 # Entering inside a container or accessing the shell
 
