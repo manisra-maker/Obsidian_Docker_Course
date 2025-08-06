@@ -17,7 +17,7 @@ created on : 2025-08-05 15:43
 | docker ps      | will show list of running containers                             |
 | docker ps -a   | will show list of all containers                                 |
 | docker exec-it | This will run the container                                                          |
-| docker logs    | Item2.4                                                          |
+| docker logs    | You can check logs to see if port is assigned properly etc                                                          |
 
 
 
