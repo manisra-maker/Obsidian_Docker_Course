@@ -171,6 +171,10 @@
   },
   "active": "c1c7885cae0b5148",
   "lastOpenFiles": [
+    "code/Demoproj/public/index.html",
+    "code/Demoproj/public",
+    "code/Demoproj/package.json",
+    "code/Demoproj",
     "code",
     "assets/imgs/Demo Project Flow.png",
     "assets/imgs/Docker WorkFlow.png",
@@ -193,10 +197,6 @@
     "notes/Images_vs_Containers.md",
     "assets/imgs/Docker.md",
     "notes/Docker vs VM.md~",
-    "notes/4913",
-    "notes/Docker vs VM",
-    "assets/imgs",
-    "assets/Container_Structure.png",
-    "assets"
+    "assets/Container_Structure.png"
   ]
 }
