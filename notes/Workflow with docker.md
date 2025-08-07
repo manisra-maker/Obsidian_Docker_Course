@@ -6,7 +6,6 @@ tags: []
 
 # Creating a entire docker based CI/CD pipeline
 
-![[Docker WorkFlow.png]]
-
+![[../assets/imgs/Docker WorkFlow.png]]
 
 
