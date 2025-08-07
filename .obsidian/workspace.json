@@ -171,6 +171,7 @@
   },
   "active": "c1c7885cae0b5148",
   "lastOpenFiles": [
+    "code/Demoproj/public/index.html~",
     "code/Demoproj/public/index.html",
     "code/Demoproj/public",
     "code/Demoproj/package.json",
@@ -196,7 +197,6 @@
     "notes/Docker vs VM.md",
     "notes/Images_vs_Containers.md",
     "assets/imgs/Docker.md",
-    "notes/Docker vs VM.md~",
     "assets/Container_Structure.png"
   ]
 }
