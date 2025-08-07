@@ -171,6 +171,7 @@
   },
   "active": "c1c7885cae0b5148",
   "lastOpenFiles": [
+    "code/Demoproj/public/index.js",
     "code/Demoproj/public/index.html~",
     "code/Demoproj/public/index.html",
     "code/Demoproj/package.json~",
@@ -181,7 +182,6 @@
     "code/Demoproj/node_modules/nodemon/doc/cli/logo.txt",
     "code/Demoproj/node_modules/nodemon/doc/cli/help.txt",
     "code/Demoproj/node_modules/nodemon/doc/cli/config.txt",
-    "code/Demoproj/node_modules/nodemon/doc/cli/authors.txt",
     "code/Demoproj/node_modules/nodemon/README.md",
     "code/Demoproj/node_modules/semver/README.md",
     "code/Demoproj/node_modules/picomatch/README.md",
