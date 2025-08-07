@@ -9,4 +9,5 @@ tags: []
 ![[../assets/imgs/Docker WorkFlow.png]]
 As for the demo project nana is doing a JS and NodeJS application with a mongo db backend 
 
+![[../assets/imgs/Demo Project Flow.png]]
 
