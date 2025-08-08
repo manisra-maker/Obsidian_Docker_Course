@@ -171,6 +171,7 @@
   },
   "active": "c1c7885cae0b5148",
   "lastOpenFiles": [
+    "code/Demoproj/public/styles.css~",
     "code/Demoproj/public/index.html~",
     "code/Demoproj/public/index.js~",
     "code/Demoproj/public/4913",
@@ -186,7 +187,6 @@
     "code/Demoproj/package.json",
     "code/Demoproj/package-lock.json",
     "code/Demoproj/node_modules/wrappy/wrappy.js",
-    "code/Demoproj/node_modules/wrappy/package.json",
     "code/Demoproj/node_modules/wrappy/README.md",
     "code/Demoproj/node_modules/vary/README.md",
     "code/Demoproj/node_modules/vary/HISTORY.md",
