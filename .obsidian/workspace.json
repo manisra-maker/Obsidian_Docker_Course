@@ -171,6 +171,7 @@
   },
   "active": "c1c7885cae0b5148",
   "lastOpenFiles": [
+    "code/Demoproj/public/index.js~",
     "conflict-files-obsidian-git.md",
     "notes/Workflow with docker.md",
     "notes/Docker vs VM.md",
@@ -206,7 +207,6 @@
     "code/Demoproj/node_modules/side-channel/CHANGELOG.md",
     "code/Demoproj/node_modules/side-channel-weakmap/README.md",
     "code/Demoproj/node_modules/side-channel-weakmap/CHANGELOG.md",
-    "code/Demoproj/node_modules/side-channel-map/README.md",
     "assets/imgs/Docker WorkFlow.png",
     "assets/imgs/Demo Project Flow.png",
     "assets/imgs/Container_Ports_Host_Ports.png",
