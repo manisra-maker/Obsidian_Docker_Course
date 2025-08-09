@@ -3,6 +3,15 @@ img{
   height: 300px;
 }
 
-.form-group{
-  display: flex;
+label{
+  display: inline-block;
+  width: 100px;
+}
+
+.profile_details{
+  margin-top:2%;
+}
+
+body{
+  background-color: grey;
 }
