@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Docker commands.md",
+                "file": "notes/Docker_Network.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker commands"
+              "title": "Docker_Network"
             }
           }
         ]
@@ -171,6 +171,8 @@
   },
   "active": "c1c7885cae0b5148",
   "lastOpenFiles": [
+    "Docker_Network.png",
+    "notes/Docker_Network.md",
     "code/Demoproj/public/index.html~",
     "code/Demoproj/public/styles.css~",
     "code/Demoproj/public/index.js~",
@@ -186,7 +188,6 @@
     "code/Demoproj/public",
     "code/Demoproj/package.json",
     "code/Demoproj/package-lock.json",
-    "code/Demoproj/node_modules/wrappy/wrappy.js",
     "code/Demoproj/node_modules/wrappy/README.md",
     "code/Demoproj/node_modules/vary/README.md",
     "code/Demoproj/node_modules/vary/HISTORY.md",
@@ -206,7 +207,6 @@
     "code/Demoproj/node_modules/side-channel/README.md",
     "code/Demoproj/node_modules/side-channel/CHANGELOG.md",
     "code/Demoproj/node_modules/side-channel-weakmap/README.md",
-    "code/Demoproj/node_modules/side-channel-weakmap/CHANGELOG.md",
     "assets/imgs/Docker WorkFlow.png",
     "assets/imgs/Demo Project Flow.png",
     "assets/imgs/Container_Ports_Host_Ports.png",
