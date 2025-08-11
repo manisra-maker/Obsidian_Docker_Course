@@ -11,12 +11,14 @@
             "id": "c1c7885cae0b5148",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/imgs/Docker WorkFlow.png"
+                "file": "notes/Images_vs_Containers.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Docker WorkFlow"
+              "icon": "lucide-file",
+              "title": "Images_vs_Containers"
             }
           }
         ]
@@ -169,6 +171,7 @@
   },
   "active": "c1c7885cae0b5148",
   "lastOpenFiles": [
+    "assets/imgs/Docker WorkFlow.png",
     "notes/Workflow with docker.md",
     "notes/container_ports_vs_machine_ports.md",
     "notes/Workflow_with_docker.md",
@@ -205,9 +208,7 @@
     "code/Demoproj/node_modules/balanced-match/README.md",
     "code/Demoproj/node_modules/anymatch/README.md",
     "code/Demoproj/node_modules/glob-parent/CHANGELOG.md",
-    "code/Demoproj/node_modules/normalize-path/README.md",
     "assets/imgs/Demo Project Flow.png",
-    "assets/imgs/Docker WorkFlow.png",
     "CI/CD pipeline.png",
     "assets/imgs/Image_vs_container.png",
     "assets/imgs/Docker vs VM.png",
