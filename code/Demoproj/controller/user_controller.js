@@ -9,4 +9,4 @@ async function addUser(req, res) {
   }
 }
 
-module.exports = { addUser };
+module.exports = { upsertUserByEmail };
