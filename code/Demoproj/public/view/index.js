@@ -14,7 +14,7 @@ const app = express();
 app.use(express.json());
 app.use("/api", userRoutes);
 
-document.getElementById("edit_profile").addEventListener("click", function() {
+document.getElementById("edit_profile").addEventListener("click",async function() {
   if (profile_flag === 1) {
     name_span.innerText = name_field.value;
     email_span.innerText = email_field.value;
@@ -27,7 +27,7 @@ document.getElementById("edit_profile").addEventListener("click", function() {
     const response = await fetch("http://localhost:3000/api/users", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ name_field.value }),
+      body: JSON.stringify({ name : name_field.value }),
     });
 
     const result = await response.json();
