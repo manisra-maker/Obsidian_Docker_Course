@@ -10,7 +10,7 @@ app.use(express.static('public/view/'));
 
 
 // API routes
-// app.use('/api', userRoutes);
+app.use('/api', userRoutes);
 
 app.listen(3000, () => {
   console.log('Listening on port 3000');
