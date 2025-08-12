@@ -9,10 +9,6 @@ var intrest_field = document.getElementById("intrest");
 var intrest_span = document.createElement("span");
 
 
-const userRoutes = require("../routes/userRoutes.js");
-const app = express();
-app.use(express.json());
-app.use("/api", userRoutes);
 
 document.getElementById("edit_profile").addEventListener("click",async function() {
   if (profile_flag === 1) {
