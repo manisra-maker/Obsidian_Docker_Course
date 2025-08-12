@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Docker_Network.md",
+                "file": "notes/Docker_compose.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker_Network"
+              "title": "Docker_compose"
             }
           }
         ]
@@ -171,6 +171,7 @@
   },
   "active": "d523e01e2e7ecb30",
   "lastOpenFiles": [
+    "notes/Docker_Network.md",
     "assets/imgs/Docker_Compose.png",
     "notes/Docker_compose.md",
     "code/Demoproj/public/view/index.js~",
@@ -178,7 +179,6 @@
     "code/Demoproj/controller/user_controller.js~",
     "code/Demoproj/server.js~",
     "notes/Docker_commands.md",
-    "notes/Docker_Network.md",
     "notes/container_ports_vs_machine_ports.md",
     "notes/Workflow_with_docker.md",
     "notes/Docker_vs_VM.md",
@@ -215,7 +215,6 @@
     "assets/imgs/Docker vs VM.png",
     "assets/imgs/Container_Structure.png",
     "assets/imgs/Container_Ports_Host_Ports.png",
-    "assets/imgs/aa.png",
-    "assets/Container_Structure.png"
+    "assets/imgs/aa.png"
   ]
 }
