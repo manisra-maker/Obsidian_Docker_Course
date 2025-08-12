@@ -171,6 +171,8 @@
   },
   "active": "d523e01e2e7ecb30",
   "lastOpenFiles": [
+    "code/Demoproj/controller/4913",
+    "code/Demoproj/controller/user_controller.js~",
     "code/Demoproj/server.js~",
     "notes/Docker_commands.md",
     "notes/Docker_Network.md",
@@ -190,7 +192,6 @@
     "code/Demoproj/node_modules/nodemon/doc/cli/whoami.txt",
     "code/Demoproj/node_modules/nodemon/doc/cli/usage.txt",
     "code/Demoproj/node_modules/nodemon/doc/cli/topics.txt",
-    "code/Demoproj/node_modules/nodemon/doc/cli/options.txt",
     "code/Demoproj/node_modules/nodemon/README.md",
     "code/Demoproj/node_modules/semver/README.md",
     "code/Demoproj/node_modules/picomatch/README.md",

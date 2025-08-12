@@ -23,7 +23,7 @@ document.getElementById("edit_profile").addEventListener("click",async function(
     const response = await fetch("http://localhost:3000/api/users", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ name : name_field.value }),
+      body: JSON.stringify({ name : name_field.value , email : email_field.value , intrest : intrest_field.value}),
     });
 
     const result = await response.json();
