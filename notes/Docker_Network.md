@@ -71,4 +71,4 @@ docker run -d \
 ```
 
 
-For addt
+For additional commands check this note [[Docker_commands]]
