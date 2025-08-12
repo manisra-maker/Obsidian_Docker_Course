@@ -13,3 +13,6 @@ You can instead write a dockercompose.yaml
 
 ![[../assets/imgs/Docker_Compose.png]]
 
+
+
+***Allways remember docker compose will take care of creating a common network*** 
