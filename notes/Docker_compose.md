@@ -15,3 +15,5 @@ You can instead write a dockercompose.yaml
 
 
 ***Allways remember docker compose will take care of creating a common network that will be named <project-name>_default*** 
+
+
