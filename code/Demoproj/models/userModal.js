@@ -1,6 +1,6 @@
 const { MongoClient } = require("mongodb");
 
-const uri = "mongodb://localhost:27017";
+const uri = "mongodb://admin:secret123@localhost:27017/users_cloud?authSource=admin";
 const dbName = "users_cloud";
 const collectionName = "user_data";
 
