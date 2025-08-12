@@ -5,6 +5,7 @@ const dbName = "users_cloud";
 const collectionName = "user_data";
 
 async function upsertUserByEmail(userData) {
+  console.log(JSON.stringify(userData));
   const client = new MongoClient(uri);
   try {
     await client.connect();
