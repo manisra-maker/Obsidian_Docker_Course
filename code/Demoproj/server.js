@@ -1,7 +1,7 @@
 // This is server code it will run first
 
 const express = require('express');
-// const userRoutes = require('./routes/userRoutes');
+const userRoutes = require('./routes/userRoutes');
 
 const app = express();
 
