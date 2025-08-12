@@ -1,10 +1,11 @@
 const { MongoClient } = require("mongodb");
 
 const uri = "mongodb://localhost:27017";
-const dbName = "users";
+const dbName = "users_cloud";
 const collectionName = "user_data";
 
 async function insertUser(userData) {
+  console.log(JSON.stringify(userData))
   const client = new MongoClient(uri);
   try {
     await client.connect();
