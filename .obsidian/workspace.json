@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/container_ports_vs_machine_ports.md",
+                "file": "notes/Docker_Network.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "container_ports_vs_machine_ports"
+              "title": "Docker_Network"
             }
           }
         ]
@@ -171,12 +171,12 @@
   },
   "active": "c1c7885cae0b5148",
   "lastOpenFiles": [
+    "notes/container_ports_vs_machine_ports.md",
     "code/Demoproj/server.js~",
     "notes/Workflow_with_docker.md",
     "notes/Docker_vs_VM.md",
     "notes/Docker_Network.md",
     "notes/Docker_commands.md",
-    "notes/container_ports_vs_machine_ports.md",
     "notes/Images_vs_Containers.md",
     "conflict-files-obsidian-git.md",
     "assets/imgs/Docker WorkFlow.png",
@@ -191,7 +191,6 @@
     "code/Demoproj/node_modules/nodemon/doc/cli/usage.txt",
     "code/Demoproj/node_modules/nodemon/doc/cli/topics.txt",
     "code/Demoproj/node_modules/nodemon/doc/cli/options.txt",
-    "code/Demoproj/node_modules/nodemon/doc/cli/logo.txt",
     "code/Demoproj/node_modules/nodemon/README.md",
     "code/Demoproj/node_modules/semver/README.md",
     "code/Demoproj/node_modules/picomatch/README.md",
