@@ -77,5 +77,6 @@ Creating mongodb ... done
 Creating mongo-express ... done
 ```
 
+## Note 
 
-
+When you restart docker containers their data will be lost so we need to make docker volumes for persistent data storage .
