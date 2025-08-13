@@ -28,8 +28,6 @@ services:
     environment:
       MONGO_INITDB_ROOT_USERNAME: admin
       MONGO_INITDB_ROOT_PASSWORD: secret123
-    networks:
-      - mongo-network
 
   mongo-express:
     image: mongo-express
@@ -44,12 +42,6 @@ services:
       ME_CONFIG_BASICAUTH_PASSWORD: secret123
     depends_on:
       - mongodb
-    networks:
-      - mongo-network
-
-networks:
-  mongo-network:
-    driver: bridge
 ```
 
 # Docker start container present inside yaml 
