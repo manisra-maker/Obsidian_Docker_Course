@@ -9,4 +9,10 @@ created_date : 2025-08-13 18:30
 
 ![[../assets/imgs/Making a image.png]]
 
+Furthur down the pipeline 
+
+![[../assets/imgs/Docker Pipeline.png]]
+## What is a dokcer file ? 
+
+A docker file is a file that is a blueprint for images 
 
