@@ -22,4 +22,3 @@ docker run --name ArchTest -dit -p 6000:6001 archlinux
 -  -p  --> host_port : container_port
 
 
-

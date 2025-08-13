@@ -1,8 +1,8 @@
 const express = require('express');
-const {addUser} = require('../controller/user_controller')
+const {Addupdateuser} = require('../controller/user_controller')
 
 const userRouter = express.Router();
 
-userRouter.post(addUser);
+userRouter.post('/users',Addupdateuser);
 
-module.exports(userRouter);
+module.exports=userRouter;
