@@ -44,6 +44,24 @@ services:
       - mongodb
 ```
 
+# Adding a independent network / compose network 
+
+```bash
+networks:
+  mongo-network:
+    driver: bridge
+```
+
+This will create a network called demo_proj_mongo-network
+
+If you really want the network to just be mongo-network (no prefix), you need to mark it as external and either create it yourself beforehand or let it already exist:
+
+```bash
+networks:
+  mongo-network:
+    external: true
+```
+
 # Docker start container present inside yaml 
 
 ```bash
