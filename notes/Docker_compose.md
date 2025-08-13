@@ -68,6 +68,12 @@ networks:
 docker-compose -f mongo_infra_docker.yaml up
 ```
 
+# Docker stop container present inside yaml 
+
+```bash
+docker-compose -f mongo_infra_docker.yaml down
+```
+
 # Docker start container present inside yaml inside detach mongo_infra_docker
 
 ```bash
