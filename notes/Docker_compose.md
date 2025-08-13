@@ -68,3 +68,14 @@ networks:
 docker-compose -f mongo_infra_docker.yaml up
 ```
 
+# Docker start container present inside yaml inside detach mongo_infra_docker
+
+```bash
+docker-compose -f mongo_infra_docker.yaml up -d
+Creating network "demoproj_default" with the default driver
+Creating mongodb ... done
+Creating mongo-express ... done
+```
+
+
+
