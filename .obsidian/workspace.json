@@ -171,19 +171,19 @@
   },
   "active": "d523e01e2e7ecb30",
   "lastOpenFiles": [
+    "notes/Docker_commands.md",
+    "notes/Docker_compose.md",
+    "notes/Docker_Image.md",
     "assets/imgs/Docker Pipeline.png",
     "assets/imgs/Making a image.png",
-    "notes/Docker_Image.md",
     "notes/Docker_compose.md~",
     "code/Demoproj/mongo_infra_docker.yaml",
     "notes/Docker_Network.md",
     "assets/imgs/Docker_Compose.png",
-    "notes/Docker_compose.md",
     "code/Demoproj/public/view/index.js~",
     "code/Demoproj/controller/4913",
     "code/Demoproj/controller/user_controller.js~",
     "code/Demoproj/server.js~",
-    "notes/Docker_commands.md",
     "notes/container_ports_vs_machine_ports.md",
     "notes/Workflow_with_docker.md",
     "notes/Docker_vs_VM.md",
@@ -215,7 +215,6 @@
     "CI/CD pipeline.png",
     "assets/imgs/Image_vs_container.png",
     "assets/imgs/Docker vs VM.png",
-    "assets/imgs/Container_Structure.png",
-    "assets/imgs/Container_Ports_Host_Ports.png"
+    "assets/imgs/Container_Structure.png"
   ]
 }
