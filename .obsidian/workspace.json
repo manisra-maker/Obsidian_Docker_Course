@@ -171,6 +171,7 @@
   },
   "active": "d523e01e2e7ecb30",
   "lastOpenFiles": [
+    "code/Demoproj/mongo_infra_docker.yaml",
     "notes/Docker_Network.md",
     "assets/imgs/Docker_Compose.png",
     "notes/Docker_compose.md",
