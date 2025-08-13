@@ -51,3 +51,10 @@ networks:
   mongo-network:
     driver: bridge
 ```
+
+# Docker start container present inside yaml 
+
+```bash
+docker-compose -f mongo_infra_docker.yaml up
+```
+
