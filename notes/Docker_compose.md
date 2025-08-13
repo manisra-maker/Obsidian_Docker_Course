@@ -14,7 +14,7 @@ You can instead write a dockercompose.yaml
 ![[../assets/imgs/Docker_Compose.png]]
 
 
-***Allways remember docker compose will take care of creating a common network that will be named <project-name>_default*** 
+***Allways remember docker compose will take care of creating a common network that will be named <project-name>_default project_name in this case is the folder of the project*** 
 
 ```bash
 version: "3.8"
