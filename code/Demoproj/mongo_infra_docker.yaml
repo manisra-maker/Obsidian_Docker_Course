@@ -23,3 +23,7 @@ services:
       ME_CONFIG_BASICAUTH_PASSWORD: secret123
     depends_on:
       - mongodb
+
+networks:
+  mongo-network:
+    external: true
