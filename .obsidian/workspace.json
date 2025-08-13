@@ -171,6 +171,7 @@
   },
   "active": "d523e01e2e7ecb30",
   "lastOpenFiles": [
+    "assets/imgs/Making a image.png",
     "notes/Docker_Image.md",
     "notes/Docker_compose.md~",
     "code/Demoproj/mongo_infra_docker.yaml",
@@ -209,7 +210,6 @@
     "code/Demoproj/node_modules/supports-color/readme.md",
     "code/Demoproj/node_modules/binary-extensions/readme.md",
     "code/Demoproj/node_modules/glob-parent/README.md",
-    "code/Demoproj/node_modules/is-binary-path/readme.md",
     "assets/imgs/Demo Project Flow.png",
     "CI/CD pipeline.png",
     "assets/imgs/Image_vs_container.png",
