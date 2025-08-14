@@ -171,6 +171,7 @@
   },
   "active": "c1c7885cae0b5148",
   "lastOpenFiles": [
+    "code/Demoproj/Dockerfile",
     "assets/imgs/Docker File.png",
     "notes/Docker_compose.md",
     "notes/Docker_Network.md",
@@ -215,7 +216,6 @@
     "assets/imgs/Demo Project Flow.png",
     "assets/imgs/Container_Ports_Host_Ports.png",
     "assets/imgs/Docker vs VM.png",
-    "assets/imgs/Container_Structure.png",
-    "assets/imgs/Image_vs_container.png"
+    "assets/imgs/Container_Structure.png"
   ]
 }

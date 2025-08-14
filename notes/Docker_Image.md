@@ -43,8 +43,12 @@ RUN npm install --production
 # Run the app
 CMD ["npm", "start"]
 ```
+
 ## Command to create the image 
 
 ```bash
-docker build -t Nodeapp:1.0
+docker build -t Nodeapp:1.0 .
 ```
+
+-t --> This is tag name for image 
+. --> int this current directory the Dockerfile is there take the file and build image  
