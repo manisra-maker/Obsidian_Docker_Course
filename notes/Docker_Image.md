@@ -56,3 +56,10 @@ Note --> image name must be lowercase else it will throw this error
 
 -t --> This is tag name for image 
 . --> int this current directory the Dockerfile is there take the file and build image  
+
+
+This what needs to be done if it where to be done via Jenkins 
+
+![[../assets/imgs/Jenkins Flow.png]]
+
+

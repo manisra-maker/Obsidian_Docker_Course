@@ -171,6 +171,7 @@
   },
   "active": "c1c7885cae0b5148",
   "lastOpenFiles": [
+    "assets/imgs/Jenkins Flow.png",
     "code/Demoproj/Dockerfile",
     "assets/imgs/Docker File.png",
     "notes/Docker_compose.md",
@@ -189,7 +190,6 @@
     "code/Demoproj/node_modules/whatwg-url/lib/url-state-machine.js",
     "code/Demoproj/node_modules/whatwg-url/lib/percent-encoding.js",
     "code/Demoproj/node_modules/whatwg-url/lib/infra.js",
-    "code/Demoproj/node_modules/whatwg-url/lib/encoding.js",
     "code/Demoproj/node_modules/whatwg-url/README.md",
     "code/Demoproj/node_modules/webidl-conversions/README.md",
     "code/Demoproj/node_modules/webidl-conversions/LICENSE.md",
