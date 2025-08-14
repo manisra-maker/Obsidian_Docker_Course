@@ -28,6 +28,21 @@ A docker file is a file that is a blueprint for images
 To create a docker file you need to give it the name Dockerfile only !
 
 ```Dockerfile
+# Use Node 24 on Alpine Linux
+FROM node:24-alpine
 
+# Set the working directory inside the container
+WORKDIR /home/app
+
+# Copy package.json and package-lock.json first for better caching
+COPY package*.json ./
+
+# Install dependencies
+RUN npm install --production
+
+# Copy the rest of the application files
+COPY . /home/app
+
+# Run the app
+CMD ["npm", "start"]
 ```
-
