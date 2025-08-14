@@ -43,3 +43,8 @@ RUN npm install --production
 # Run the app
 CMD ["npm", "start"]
 ```
+## Command to create the image 
+
+```bash
+docker build -t Nodeapp:1.0
+```
