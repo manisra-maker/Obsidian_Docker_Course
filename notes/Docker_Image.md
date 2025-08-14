@@ -19,6 +19,15 @@ A docker file is a file that is a blueprint for images
 02:01:01
 
 
+## Before creating a docker file you need to choose which image of node to take so take alpine image of node such that the linux commands can work 
+
+![[../assets/imgs/Docker File.png]]
+
 ## Creating a docker file 
 
-To create a docker file you need to 
+To create a docker file you need to give it the name Dockerfile only !
+
+```Dockerfile
+
+```
+
