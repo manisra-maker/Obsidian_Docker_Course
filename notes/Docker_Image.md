@@ -17,3 +17,8 @@ Furthur down the pipeline
 A docker file is a file that is a blueprint for images 
 
 02:01:01
+
+
+## Creating a docker file 
+
+To create a docker file you need to 
