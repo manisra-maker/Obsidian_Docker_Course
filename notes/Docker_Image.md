@@ -34,14 +34,11 @@ FROM node:24-alpine
 # Set the working directory inside the container
 WORKDIR /home/app
 
-# Copy package.json and package-lock.json first for better caching
-COPY package*.json ./
+# Copy the rest of the application files
+COPY . /home/app
 
 # Install dependencies
 RUN npm install --production
-
-# Copy the rest of the application files
-COPY . /home/app
 
 # Run the app
 CMD ["npm", "start"]
