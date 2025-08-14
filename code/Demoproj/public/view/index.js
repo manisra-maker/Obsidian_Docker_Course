@@ -35,7 +35,8 @@ document
 
       profile_flag = 0;
       button.innerHTML = "Edit Profile";
-    } else {
+    } 
+    else {
       name_span.parentNode.replaceChild(name_field, name_span);
       email_span.parentNode.replaceChild(email_field, email_span);
       intrest_span.parentNode.replaceChild(intrest_field, intrest_span);
