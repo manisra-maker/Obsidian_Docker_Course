@@ -62,4 +62,3 @@ This what needs to be done if it where to be done via Jenkins
 
 ![[../assets/imgs/Jenkins Flow.png]]
 
-
