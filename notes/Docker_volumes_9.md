@@ -9,7 +9,7 @@ created_on : 2025-08-18 13:31
 
 If we have state-full applications  or where data must persist we use docker volumes
 
-![](Docker%20Volumes.png)
+![](../assets/imgs/Docker%20Volumes.png)
 
 Here we mount the host file system with the docker file system 
 
@@ -32,6 +32,6 @@ Another one is giving -v name:/var/lib/mysql/data
 
 Same thing inside a docker compose file 
 
-![](Volumes%20in%20compose%20file.png)
+![](../assets/imgs/Volumes%20in%20compose%20file.png)
 
 

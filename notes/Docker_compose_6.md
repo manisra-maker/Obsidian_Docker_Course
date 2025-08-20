@@ -11,7 +11,7 @@ Before to run the docker network of mongo you had done [[Docker_Network_5]]
 
 You can instead write a dockercompose.yaml
 
-![](Docker_Compose.png)
+![](../assets/imgs/Docker_Compose.png)
 
 
 ***All-ways remember docker compose will take care of creating a common network that will be named project_name_default in this case is the folder of the project*** 
