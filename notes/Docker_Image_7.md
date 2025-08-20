@@ -11,7 +11,7 @@ created_date : 2025-08-13 18:30
 
 Further down the pipeline 
 
-![](Docker%20Pipeline.png)
+![](../assets/imgs/Docker%20Pipeline.png)
 ## What is a docker file ? 
 
 A docker file is a file that is a blueprint for images 
