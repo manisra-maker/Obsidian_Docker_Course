@@ -18,7 +18,7 @@ A docker file is a file that is a blueprint for images
 
 ## Before creating a docker file you need to choose which image of node to take so take alpine image of node such that the linux commands can work 
 
-![](Docker%20File.png)
+![](../assets/imgs/Docker%20File.png)
 
 ## Creating a docker file 
 
@@ -58,4 +58,4 @@ Note --> image name must be lowercase else it will throw this error
 This what needs to be done if it where to be done via Jenkins 
 
 
-![](Jenkins%20Flow.png)
+![](../assets/imgs/Jenkins%20Flow.png)
