@@ -7,7 +7,7 @@ created_date : 2025-08-13 18:30
 
 # How to build a docker image 
 
-![](Making%20a%20image.png)
+![](../assets/imgs/Making%20a%20image.png)
 
 Further down the pipeline 
 
