@@ -7,9 +7,10 @@ created_on : 2025-08-18 13:31
 
 # Creating docker volumes 
 
-If we have statefull applications  or where data must persist we use docker volumes
+If we have state-full applications  or where data must persist we use docker volumes
 
-![[../assets/imgs/Docker Volumes.png]]
+![](Docker%20Volumes.png)
+
 Here we mount the host file system with the docker file system 
 
 So when docker container write it will write to host as well
@@ -31,6 +32,6 @@ Another one is giving -v name:/var/lib/mysql/data
 
 Same thing inside a docker compose file 
 
-![[../assets/imgs/Volumes in compose file.png]]
+![](Volumes%20in%20compose%20file.png)
 
 

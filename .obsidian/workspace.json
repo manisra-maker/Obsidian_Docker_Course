@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Docker_Image.md",
+                "file": "notes/Docker_volumes_9.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker_Image"
+              "title": "Docker_volumes_9"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 447.5
   },
   "right": {
     "id": "22a937248afa7383",
@@ -161,7 +161,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -172,12 +171,19 @@
   },
   "active": "c1c7885cae0b5148",
   "lastOpenFiles": [
+    "notes/Adding_to_docker_hub_8.md",
+    "notes/Docker_Image_7.md",
+    "notes/Docker_compose_6.md",
+    "notes/container_ports_vs_machine_ports_2.5.md",
+    "notes/Docker_volumes_9.md",
+    "notes/Docker_Network_5.md",
+    "notes/Docker_commands_3.md",
+    "notes/Workflow_with_docker_4.md",
+    "notes/Docker_vs_VM_2.md",
+    "notes/Images_vs_Containers_1.md",
     "assets/imgs/Jenkins Flow.png",
     "code/Demoproj/Dockerfile",
     "assets/imgs/Docker File.png",
-    "notes/Docker_compose.md",
-    "notes/Docker_Network.md",
-    "notes/Docker_Image.md",
     "code/Demoproj/mongo_infra_docker.yaml",
     "assets/imgs/Making a image.png",
     "assets/imgs/Docker_Compose.png",
@@ -206,17 +212,10 @@
     "code/Demoproj/node_modules/bson/vendor/text-encoding/LICENSE.md",
     "code/Demoproj/node_modules/bson/vendor/base64/README.md",
     "code/Demoproj/node_modules/bson/README.md",
-    "code/Demoproj/node_modules/bson/LICENSE.md",
-    "code/Demoproj/node_modules/@types/whatwg-url/README.md",
-    "code/Demoproj/node_modules/@types/webidl-conversions/README.md",
-    "code/Demoproj/node_modules/@mongodb-js/saslprep/readme.md",
     "Docker_Network.png",
-    "notes/Workflow with docker.md",
-    "notes/Docker vs VM.md",
     "assets/imgs/Docker WorkFlow.png",
     "assets/imgs/Demo Project Flow.png",
     "assets/imgs/Container_Ports_Host_Ports.png",
-    "assets/imgs/Docker vs VM.png",
-    "assets/imgs/Container_Structure.png"
+    "assets/imgs/Docker vs VM.png"
   ]
 }

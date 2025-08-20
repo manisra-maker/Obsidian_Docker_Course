@@ -7,7 +7,8 @@ created on : 2025-08-09 18:01
 
 # Docker network diagram of the NodeJS project
 
-![[../assets/imgs/Docker_Network.png]]
+![](Docker_Network.png)
+
 Docker already has network built can be checked via 
 
 ```bash
@@ -71,4 +72,4 @@ docker run -d \
 ```
 
 
-For additional commands check this note [[Docker_commands]]
+For additional commands check this note [[Docker_commands_3]]

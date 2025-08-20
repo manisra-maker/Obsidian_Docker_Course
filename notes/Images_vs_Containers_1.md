@@ -31,11 +31,11 @@ When you start a container, Docker uses the image as the starting point.
 
 ## Container structure 
 
-![[../assets/imgs/Container_Structure.png]]
+![](Container_Structure.png)
 
 ## Container vs Image 
 
-![[../assets/imgs/Image_vs_container.png]]
+![](Image_vs_container.png)
 
 ## How to run a docker container 
 

@@ -8,20 +8,16 @@ created_date : 2025-08-13 18:30
 # How to build a docker image 
 
 ![](../assets/imgs/Making%a%image.png)
+Further down the pipeline 
 
-Furthur down the pipeline 
-
-![[../assets/imgs/Docker Pipeline.png]]
-## What is a dokcer file ? 
+![](Docker%20Pipeline.png)
+## What is a docker file ? 
 
 A docker file is a file that is a blueprint for images 
 
-02:01:01
-
-
 ## Before creating a docker file you need to choose which image of node to take so take alpine image of node such that the linux commands can work 
 
-![[../assets/imgs/Docker File.png]]
+![](Docker%20File.png)
 
 ## Creating a docker file 
 
@@ -60,5 +56,5 @@ Note --> image name must be lowercase else it will throw this error
 
 This what needs to be done if it where to be done via Jenkins 
 
-![[../assets/imgs/Jenkins Flow.png]]
 
+![](Jenkins%20Flow.png)
